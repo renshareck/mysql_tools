@@ -1,0 +1,9 @@
+{
+  "comment": "选定表项组",
+  "keys":["list_1", "list_2", "list_3", "list_4", "list_5"],
+  "list_1": ["domain_1","domain_2","domain_3","domain_4","domain_5","domain_6","domain_7","domain_8","domain_9","domain_10"],
+  "list_2": ["FQDN"],
+  "list_3": ["WHOIS_1","WHOIS_2","WHOIS_3","WHOIS_4","WHOIS_5","WHOIS_6","WHOIS_7","WHOIS_8","WHOIS_9","WHOIS_10"],
+  "list_4": ["WHOWAS_1","WHOWAS_2","WHOWAS_3","WHOWAS_4","WHOWAS_5","WHOWAS_6","WHOWAS_7","WHOWAS_8","WHOWAS_9","WHOWAS_10"],
+  "list_5": ["WHOIS_raw_1","WHOIS_raw_2","WHOIS_raw_3","WHOIS_raw_4","WHOIS_raw_5","WHOIS_raw_6","WHOIS_raw_7","WHOIS_raw_8","WHOIS_raw_9","WHOIS_raw_10"]
+}
